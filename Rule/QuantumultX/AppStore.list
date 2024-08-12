@@ -1,0 +1,5 @@
+host-suffix, apps.apple.com, proxy
+host-suffix, itunes.apple.com, proxy
+host-suffix, itunes-apple.com.akadns.net, proxy
+host-suffix, mzstatic.com, proxy
+host, ppq.apple.com, proxy
